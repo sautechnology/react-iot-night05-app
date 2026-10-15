@@ -5,7 +5,7 @@ export default function Home() {
     <div>
         <NavBar />
         <p className="text-3xl text-center mt-6 font-bold text-blue-600">
-            Welcome to Chanintorn 
+            Welcome to Chanintorn Chalermsuk
         </p>
     </div>
   )
